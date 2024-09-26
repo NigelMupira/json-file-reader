@@ -23,5 +23,5 @@
 * Harare Institute of Technology
 * School of Information Science and Technology
 * **Degree:** (BSc) Information Security and Assurance
-* **Course:** ISS1205 Web Technologies
+* **Course:** ISS1201 Visual Programming Concepts
 * **Lecturer:** Stanford Mavuchi (smavuchi@hit.ac.zw)
